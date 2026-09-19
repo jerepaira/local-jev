@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+.calibration.json
+.profiles.json
+.profile_cache.json
